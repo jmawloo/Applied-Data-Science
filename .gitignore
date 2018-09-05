@@ -1,4 +1,4 @@
 *.pdf
 *.png
-3.\ Applied\ Machine\ Learning/__pycache__/
+__pycache__/
 *.dot
